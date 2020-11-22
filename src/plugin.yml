@@ -1,0 +1,58 @@
+name: CustomEnchants
+author: Shawn
+version: 1.0
+main: sl4475.Enchantments.Enchant
+description: for server
+commands:
+   ice:
+      description: Add ice
+   drowsy:
+      description: Add drowsy
+   overload:
+      description: Add overload
+   implants:
+      description: Add implants
+   gears:
+      description: Add gears
+   inquisitive:
+      description: Add inquisitive
+   obsidianshield:
+      description: Add obsidianshield
+   autosmelt:
+      description: Add autosmelt
+   enchants:
+      description: displays enchants
+   haste:
+      description: Add haste
+   detonate:
+      description: Add detonate
+   natures:
+      description: Add nature's wrath
+   anti:
+      description: Add antigravity
+   nightvision:
+      description: Add nightvision
+   mending:
+      description: Add mending
+   venom:
+      description: Add venom
+   godly:
+      description: Add godly overload
+   angelic:
+      description: Add angelic
+   enlightened:
+      description: enlightened
+   teleportation:
+      description: teleportation
+   deathbringer:
+      description: deathbringer
+   divine:
+      description: divine enlightened
+   planetary:
+      description: planetary deathbringer
+   lifesteal:
+      description: lifesteal
+   demonic:
+      description: demonic lifesteal
+   magnetism:
+      description: adds magnetism
